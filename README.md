@@ -9,6 +9,7 @@
 
 ![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-gray?style=flat&logo=java&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-gray?style=flat&logo=groovy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-gray?style=flat&logo=mariadb&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-gray?style=flat&logo=gnu-bash&logoColor=white)
