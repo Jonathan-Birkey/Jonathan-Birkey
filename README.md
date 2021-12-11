@@ -9,10 +9,10 @@
 
 ![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-gray?style=flat&logo=java&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-gray?style=flat&logo=groovy&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-gray?style=flat&logo=mariadb&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-gray?style=flat&logo=gnu-bash&logoColor=white)
+![Groovy](https://img.shields.io/badge/Groovy-gray?style=flat&logo=groovy&logoColor=white)
 
 ![Git](https://img.shields.io/badge/git-gray?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-gray?style=flatdge&logo=github&logoColor=white)
@@ -20,6 +20,11 @@
 ![Vim](https://img.shields.io/badge/VIM-gray?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-gray?style=flat&logo=jenkins&logoColor=white)
+
+## GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
+## Find me
 
 <br />
 <p align="center">
