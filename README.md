@@ -14,6 +14,7 @@
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-gray?style=flat&logo=gnu-bash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-gray?style=flat&logo=Apache%20Groovy&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?style=flat&logo=C%2B%2B&logoColor=white)
+
 ![Windows](https://img.shields.io/badge/Windows-gray?style=flat&logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-gray?style=flat&logo=apple&logoColor=white)
@@ -37,7 +38,7 @@
 <br />
 <p align="center">
 <a href="https://www.linkedin.com/in/jonathan-birkey-052123150/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
 <a href="mailto:jonathan.birkey@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
 </p>
