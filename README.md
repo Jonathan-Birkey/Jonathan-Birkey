@@ -22,7 +22,7 @@
 ![Jenkins](https://img.shields.io/badge/jenkins-gray?style=flat&logo=jenkins&logoColor=white)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Birkey&theme=tokyonight)
 
 ## Find me
 
