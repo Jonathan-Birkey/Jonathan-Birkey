@@ -14,13 +14,13 @@
 ![Shell Script](https://img.shields.io/badge/Shell_Script-gray?style=flat&logo=gnu-bash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-gray?style=flat&logo=groovy&logoColor=white)
 
-![Git](https://img.shields.io/badge/git-gray?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-gray?style=flatdge&logo=github&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-gray?style=flat&logo=pycharm&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/intellij-gray?style=flat&logo=intellij&logoColor=white)
+![Git](https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-gray?style=flatdge&logo=github&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-gray?style=flat&logo=pycharm&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/IntelliJ-gray?style=flat&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-gray?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-gray?style=flat&logo=jenkins&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&logoColor=white)
 
 ## GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Birkey&show_icons=true&theme=tokyonight)
