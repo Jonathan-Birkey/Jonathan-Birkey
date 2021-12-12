@@ -33,7 +33,6 @@
 ![IntelliJ](https://img.shields.io/badge/IntelliJ-gray?style=flat&logo=intellij-idea&logoColor=white)
 ![Vim](https://img.shields.io/badge/VIM-gray?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-gray?style=flat&logo=gitlab&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-gray?style=flatdge&logo=githubactions&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white)
