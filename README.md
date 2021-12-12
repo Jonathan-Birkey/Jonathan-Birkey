@@ -17,9 +17,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?style=flat&logo=C%2B%2B&logoColor=white)
 
-## Frameworks & Libraries
-
-
 ## Environements
 
 ![Windows](https://img.shields.io/badge/Windows-gray?style=flat&logo=windows&logoColor=white)
@@ -44,6 +41,7 @@
 
 
 ## GitHub Stats
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Jonathan-Birkey&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jonathan-Birkey&theme=tokyonight)
 
