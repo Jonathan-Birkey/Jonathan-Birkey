@@ -1,4 +1,4 @@
-# About Me 👋
+# About Me
 
 - 🎓 Education: Pursuing Master in Computer Science from University of Illinois Urbana-Champaine
 - 🎓 Education: BS in Computer Science from Aurora University
@@ -17,14 +17,6 @@
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?style=flat&logo=C%2B%2B&logoColor=white)
 
-## Environements
-
-![Windows](https://img.shields.io/badge/Windows-gray?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
-![Mac OS](https://img.shields.io/badge/Mac%20OS-gray?style=flat&logo=apple&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-gray?style=flat&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-gray?style=flat&logo=Arduino&logoColor=white)
-
 ## Tools
 
 ![Git](https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white)
@@ -37,6 +29,14 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-gray?style=flatdge&logo=githubactions&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white)
+
+## Environements
+
+![Windows](https://img.shields.io/badge/Windows-gray?style=flat&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
+![Mac OS](https://img.shields.io/badge/Mac%20OS-gray?style=flat&logo=apple&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-gray?style=flat&logo=Raspberry%20Pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-gray?style=flat&logo=Arduino&logoColor=white)
 
 
 ## GitHub Stats
