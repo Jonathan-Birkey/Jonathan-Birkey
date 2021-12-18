@@ -1,9 +1,10 @@
 # About Me
 
-- 🎓 Education: Pursuing Master in Computer Science from University of Illinois Urbana-Champaine
+- 💻 Career: Embedded Software Engineering Manager 1 at Northrop Grumman
+- 🎓 Education: Pursuing Masters in Computer Science from University of Illinois at Urbana-Champaign
 - 🎓 Education: BS in Computer Science from Aurora University
 - 🎓 Education: BA in Criminal Justice from Aurora University
-- 👨 Pronouns: He/Him
+- 👨 Pronouns: He/Him/His
 
 ## Languages
 
