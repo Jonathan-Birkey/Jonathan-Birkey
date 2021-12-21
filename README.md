@@ -1,6 +1,6 @@
 # About Me
 
-- 💻 Career: Embedded Software Engineering Manager 1 at Northrop Grumman
+- 💻 Career: Manager Embedded Software Engineer 1 at Northrop Grumman
 - 🎓 Education: Pursuing Masters in Computer Science from University of Illinois at Urbana-Champaign
 - 🎓 Education: BS in Computer Science from Aurora University
 - 🎓 Education: BA in Criminal Justice from Aurora University
