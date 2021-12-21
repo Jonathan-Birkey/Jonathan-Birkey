@@ -8,7 +8,7 @@
 
 ## Languages
 
-![Python](https://img.shields.io/badge/Python_⭐⭐⭐⭐⭐-gray?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-gray?style=flat&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=mysql&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-gray?style=flat&logo=mariadb&logoColor=white)
