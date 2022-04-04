@@ -1,7 +1,7 @@
 # About Me
 
 - 💻 Occupation: Embedded Software Engineer Manager 1 at Northrop Grumman
-- 🎓 Education: Pursuing Masters in Computer Science from University of Illinois at Urbana-Champaign
+- 🎓 Education: Pursuing Masters of Computer Science in Data Science from University of Illinois at Urbana-Champaign
 - 🎓 Education: BS in Computer Science from Aurora University
 - 🎓 Education: BA in Criminal Justice from Aurora University
 - 👨 Pronouns: He/Him
@@ -10,12 +10,9 @@
 
 ![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-gray?style=flat&logo=java&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-gray?style=flat&logo=mariadb&logoColor=white)
+![MQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=sql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-gray?style=flat&logo=gnu-bash&logoColor=white)
-![Groovy](https://img.shields.io/badge/Groovy-gray?style=flat&logo=Apache%20Groovy&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-gray?style=flat&logo=markdown&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-gray?style=flat&logo=microsoft%20sql%20server&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?style=flat&logo=C%2B%2B&logoColor=white)
 
 ## Tools
@@ -37,7 +34,6 @@
 ![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-gray?style=flat&logo=apple&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-gray?style=flat&logo=Raspberry%20Pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-gray?style=flat&logo=Arduino&logoColor=white)
 
 
 ## GitHub Stats
