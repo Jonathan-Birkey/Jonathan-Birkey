@@ -10,7 +10,7 @@
 
 ![Python](https://img.shields.io/badge/Python-gray?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-gray?style=flat&logo=java&logoColor=white)
-![MQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=sql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-gray?style=flat&logo=mysql&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell%20Script-gray?style=flat&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-gray?style=flat&logo=markdown&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?style=flat&logo=C%2B%2B&logoColor=white)
