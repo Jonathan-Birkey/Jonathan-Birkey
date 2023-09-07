@@ -1,9 +1,9 @@
 # About Me
 
 - 💻 Occupation: Embedded Software Engineer Manager 1 at Northrop Grumman
-- 🎓 Education: Masters of Computer Science from University of Illinois at Urbana-Champaign
-- 🎓 Education: BS in Computer Science from Aurora University
-- 🎓 Education: BA in Criminal Justice from Aurora University
+- 🎓 Education: Masters of Computer Science from University of Illinois at Urbana-Champaign IL
+- 🎓 Education: BS in Computer Science, Aurora University IL
+- 🎓 Education: BA in Criminal Justice, Aurora University IL
 - 👨 Pronouns: He/Him
 
 ## Languages
@@ -24,7 +24,6 @@
 ![Vim](https://img.shields.io/badge/VIM-gray?style=flat&logo=vim&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-gray?style=flat&logo=visual-studio-code&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-gray?style=flatdge&logo=githubactions&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-gray?style=flat&logo=confluence&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-gray?style=flat&logo=jira&logoColor=white)
 
@@ -34,7 +33,6 @@
 ![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-gray?style=flat&logo=apple&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-gray?style=flat&logo=Raspberry%20Pi&logoColor=white)
-
 
 ## GitHub Stats
 
