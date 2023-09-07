@@ -15,7 +15,7 @@
 ![Markdown](https://img.shields.io/badge/Markdown-gray?style=flat&logo=markdown&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-gray?style=flat&logo=C%2B%2B&logoColor=white)
 
-## Tools
+## Tools / Technologies
 
 ![Git](https://img.shields.io/badge/Git-gray?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-gray?style=flatdge&logo=github&logoColor=white)
@@ -30,9 +30,9 @@
 ## Environements
 
 ![Windows](https://img.shields.io/badge/Windows-gray?style=flat&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
 ![Mac OS](https://img.shields.io/badge/Mac%20OS-gray?style=flat&logo=apple&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-gray?style=flat&logo=Raspberry%20Pi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-gray?style=flat&logo=linux&logoColor=white)
 
 ## GitHub Stats
 
